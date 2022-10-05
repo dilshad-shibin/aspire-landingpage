@@ -46,23 +46,12 @@ $medium = $_GET['utm_medium'];
 
 
     <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-597P7CC');
-    </script>
-    <!-- End Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXRCRPR');</script>
+<!-- End Google Tag Manager -->
 
 </head>
 
@@ -70,8 +59,9 @@ $medium = $_GET['utm_medium'];
 
 
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-597P7CC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXRCRPR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
     <div class="main">
         <!-- ***** Header Start ***** -->
@@ -98,10 +88,14 @@ $medium = $_GET['utm_medium'];
                     <!-- Welcome Intro Start -->
                     <div class="col-lg-7 col-md-12 p-0">
 
-                        <!-- <div class="banner-caption">
-                            <h1><span>Lorem ipsum </span> <span>dolor sit amet .</span></h1>
-                        </div> -->
-                        <img src="assets/img/banner/hero-img.jpg" alt="">
+                        
+                        <div class="banner-img">
+                            <img src="assets/img/banner/hero-img4.jpg" alt="">
+                            <div class="banner-caption">
+                                <span>Lorem ipsum dolar sit</span>
+                                <h1>Aspire to be the Leader you where born to be</h1>
+                            </div>
+                        </div>
 
                     </div>
                     <div class="col-lg-5 col-md-12 p-0 d-flex align-items-center welcome-form-wrap">

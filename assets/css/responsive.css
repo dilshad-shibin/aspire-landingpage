@@ -691,4 +691,13 @@
     .testi-btn {
         margin-top: 110px;
     }
+    .banner-caption {
+        max-width: 300px;
+    }
+    .banner-caption span {
+        font-size: 15px;
+    }
+    .banner-caption h1 {
+        font-size: 22px;
+    }
 }
