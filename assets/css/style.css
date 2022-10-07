@@ -1525,6 +1525,7 @@ section {
     margin: 0 30px;
     margin-bottom: 30px;
     border: 1px solid;
+    min-height: 540px;
 }
 
 .pgm-box h3 {
@@ -1536,8 +1537,9 @@ section {
 
 .pgm-box p {
     color: #656565;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 35px;
+    line-height: 27px;
 }
 
 .pgm-btn a {

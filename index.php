@@ -92,8 +92,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="banner-img">
                             <img src="assets/img/banner/hero-img4.jpg" alt="">
                             <div class="banner-caption">
-                                <span>Lorem ipsum dolar sit</span>
-                                <h1>Aspire to be the Leader you where born to be</h1>
+                                <span>Give wings to your aspirations </span>
+                                <h1>Aspire to be the Leader you were born to be</h1>
                             </div>
                         </div>
 
@@ -138,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-12 text-center">
                         <div class="dream-head">
                             <h1 class="head-h1">Do you ever dream of</h1>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                            <p>Each one of us has some or the other dream. What if your dream gets fulfilled? </p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -185,8 +185,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="ser-text">
                             <span>Our Services</span>
                             <h1 class="head-h1">Transform yourselves to become tomorrow's leaders!</h1>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                            <p>a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                            <p>The economy of every country depends on its countrymen. The larger the number of employed or working people, the better the economy. India is blessed with the largest young population with the intelligence, strength, and mindset to work hard. People have ideas and capabilities, but they need to be given guidance and support to implement their ideas and flourish.</p>
+                            <p>Both the Central and State Governments have implemented a large number of schemes and programmes to tap the potential of Indian youth. Every Indian should contribute to the nation's progress.</p>
                             <div class="ser-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Enquire Now</a></div>
                         </div>
                     </div>
@@ -201,7 +201,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-12 text-center">
                         <div class="ser-text mb-30">
                             <span>Our Services</span>
-                            <h1 class="head-h1">Lorem Ipsum is simply dummy text of the printing</h1>
+                            <h1 class="head-h1">We help you dream big and enhance your skills </h1>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -209,7 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="img"><img src="assets/img/services/01.jpg" alt=""></div>
                             <div class="inner">
                                 <h3>Training program for students</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p>We assist students in setting and açcomplishing realistic goals. </p>
                                 <div class="pgm-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Join Now</a></div>
                             </div>
                         </div>
@@ -219,7 +219,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="img"><img src="assets/img/services/02.jpg" alt=""></div>
                             <div class="inner">
                                 <h3>Training program for startups</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p>Aspire helps startups to operate by overcoming all the hurdles and assists people to build startups. </p>
                                 <div class="pgm-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Join Now</a></div>
                             </div>
                         </div>
@@ -228,8 +228,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="pgm-box">
                             <div class="img"><img src="assets/img/services/03.jpg" alt=""></div>
                             <div class="inner">
-                                <h3>Other Business Service</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <h3>Other Business Service </h3>
+                                <p>We also offer support and guidance to people who have experienced failure in business or had to shut down their enterprise due to any reason. </p>
                                 <div class="pgm-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">Join Now</a></div>
                             </div>
                         </div>
@@ -267,8 +267,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="ser-text about-text">
                             <span>About Us</span>
                             <h1 class="head-h1">Aspire to be the entrepreneurs of the future!</h1>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                            <p>a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                            <p>Success aspirations move everyone ahead in life. 'Aspire Foundation is a registered charitable organization dedicated to entrepreneurs. Aspire mentors and supports young entrepreneurs in their endeavours to become successful and ethical company leaders. We assist young aspirants in putting their ideas into action and enhancing their potential. We offer the best business course for entrepreneurs.</p>
+                            <p>Our programs for fostering entrepreneurship are designed to help young entrepreneurs learn how to launch and expand their enterprises. As a top business training institute, we offer top business transformation courses.</p>
                             <div class="abt-btn"><a href="#" data-toggle="modal" data-target="#exampleModal0">More About Us</a></div>
                         </div>
                     </div>
@@ -290,45 +290,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="testi-slider owl-carousel">
                             <div class="item-testi">
                                 <div class="img"><img src="assets/img/quote.png" alt=""></div>
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting.</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived .</p>
-                                <h4>Mr. Gopinath</h4>
-                                <span>Trivandrum, Indi</span>
+                                <h3>Top business course for entrepreneurs </h3>
+                                <p>The programs of Aspire instilled in me the proper attitude and mindset required for beginning my business. The training was top-class. Aspire is conducting the best business training program in Kerala and I would recommend it to all budding entrepreneurs.</p>
+                                <h4>Gopinath K</h4>
+                                <span>Kannur</span>
                             </div>
                             <div class="item-testi">
                                 <div class="img"><img src="assets/img/quote.png" alt=""></div>
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting.</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived .</p>
-                                <h4>Mr. Gopinath</h4>
-                                <span>Trivandrum, Indi</span>
+                                <h3>Well-planned programs with invaluable insights</h3>
+                                <p>Excellent programs for aspiring entrepreneurs. Each program is named based on the milestone you have achieved in the journey towards learning how to become a successful entrepreneur. And that's quite interesting and motivating. The mentors are truly dedicated.</p>
+                                <h4>Rahul Krishnan</h4>
+                                <span>Thrissur</span>
                             </div>
                             <div class="item-testi">
                                 <div class="img"><img src="assets/img/quote.png" alt=""></div>
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting.</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived .</p>
-                                <h4>Mr. Gopinath</h4>
-                                <span>Trivandrum, Indi</span>
+                                <h3>Fulfilling the dreams of young entrepreneurs</h3>
+                                <p>Aspire is imparting top business leadership training. They are offering the best business strategy course. The training program that they have curated helps make the dreams of aspiring young entrepreneurs come true. I enjoyed the personnel management sessions.</p>
+                                <h4>Anand K</h4>
+                                <span>Kozhikode</span>
                             </div>
                             <div class="item-testi">
                                 <div class="img"><img src="assets/img/quote.png" alt=""></div>
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting.</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived .</p>
-                                <h4>Mr. Gopinath</h4>
-                                <span>Trivandrum, Indi</span>
+                                <h3>World-class expertise and mentorship</h3>
+                                <p>A highly comprehensive business training program that covers all the aspects of entrepreneurship interestingly and fruitfully. The inputs from different experts give us insight into how to achieve success in our ventures. Highly recommend it.</p>
+                                <h4>Abdul Rahiman</h4>
+                                <span>Kochi</span>
                             </div>
                             <div class="item-testi">
                                 <div class="img"><img src="assets/img/quote.png" alt=""></div>
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting.</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived .</p>
-                                <h4>Mr. Gopinath</h4>
-                                <span>Trivandrum, Indi</span>
+                                <h3>Starting a new business made so easy</h3>
+                                <p>The training from Aspire helped me take the bold step of building my dream startup. It is the top business management and leadership course and all its 6 programs are so innovative.  The mentoring and support network offered by Aspire is unmatched. It helps transform ideas.</p>
+                                <h4>Sam</h4>
+                                <span>Kochi</span>
                             </div>
                             <div class="item-testi">
                                 <div class="img"><img src="assets/img/quote.png" alt=""></div>
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting.</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived .</p>
-                                <h4>Mr. Gopinath</h4>
-                                <span>Trivandrum, Indi</span>
+                                <h3>An interesting and adventurous journey towards a new venture</h3>
+                                <p>Aspire taught me to build and launch new business ideas, learn startup tools and frameworks, analyse market opportunities, create a viable business model and financial plan, and articulate a vision for my enterprise. The support of the mentors helped a lot.</p>
+                                <h4>Greeshma</h4>
+                                <span>Kollam</span>
                             </div>
                             
                         </div>
@@ -416,11 +416,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </ul>
                        </div>
                     </div> -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-8">
                         <div class="ft-contact">
                             <h3>Contact</h3>
-                            <a href="tel:+91 0123456789" class="call">+91 0123456789</a> 
-                            <a href="mailto:mail@doaminame.com"><i class="fa fa-envelope"></i> mail@doaminame.com</a>
+                            <a href="tel:919778469757" class="call">+91 977 846 9757</a> 
+                            <a href="mailto:aspirefoundation11@gmail.com"><i class="fa fa-envelope"></i> aspirefoundation11@gmail.com</a>
                         </div>
                     </div>
                 </div>
@@ -450,7 +450,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-sm-6 p-0 text-center pp-left">
                                     <div class="popupleft-content">
                                         <!-- <h3>Get Our<br><span>PRODUCTS</span></h3> -->
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur non molestiae aliquid nam velit tempore.</p>
+                                        <p>Do you wish to venture into your own business? No idea where to start and how?</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
@@ -516,8 +516,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- ***** MAIN END***** -->
     <a href="#" class="vertical_btn" data-toggle="modal" data-target="#exampleModal0">Enquire</a>
     <div class="cont_link_box">
-        <a title="WhatsApp" target="_blank" href="https://api.whatsapp.com/send?phone=910123456789" class="whatsapp_icon"><i class="fab fa-whatsapp"></i></a>
-        <a title="Call Now" target="_blank" href="tel:+919656039933" class="call_iconbtn"><i class="fa fa-phone-alt" aria-hidden="true"></i></a>
+        <a title="WhatsApp" target="_blank" href="https://api.whatsapp.com/send?phone=919778469757" class="whatsapp_icon"><i class="fab fa-whatsapp"></i></a>
+        <a title="Call Now" href="tel:+919778469757" class="call_iconbtn"><i class="fa fa-phone-alt" aria-hidden="true"></i></a>
     </div>
 
     <!-- about Form-->

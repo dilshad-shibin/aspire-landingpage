@@ -683,6 +683,7 @@
     .pgm-box {
         margin: 0 0;
         margin-bottom: 40px;
+        min-height: auto;
     }
     .ft-contact .call {
         display: block;
